@@ -21,6 +21,6 @@ function selectDifferentDrivers(arrayOfDrivers, selector) {
     return selectDifferentDrivers (arrayOfDrivers);
   }
   else {
-    return selectDifferentDrivers(arrayOfDrivers)
+    return selectDifferentDrivers(arrayOfDrivers);
   }
 }
